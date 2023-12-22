@@ -2,7 +2,11 @@
 const Contact = () => {
     return (
         <div>
-            <h1>This is contact setion--------------------</h1>
+            <div>
+            <h1 className="text-4xl text-center"> Contact </h1>
+            
+            </div>
+            
             
         </div>
     );
