@@ -5,9 +5,9 @@ const Skills = () => {
         <div className="">
             <h1 className="text-4xl font-bold text-center mt-24">Skills</h1>
 
-            <div className="mt-20" >
+            <div className="mt-20  md:w-3/4  mx-auto" >
                 <div className=" flex flex-wrap justify-center gap-10">
-                    <img className="h-16 w-20 " src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" />
+                    <img className="h-16 w-20  " src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" />
                     <img className="h-16 w-20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="HTML" title="CSS" />
                     <img className="h-16 w-20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="HTML" title="JavaScript" />
                     <img className="h-16 w-20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="HTML" title="React.js" />
